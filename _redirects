@@ -1,1 +1,2 @@
-/api/data/historydata/?symbol=NEPSE*  https://chukul.com/api/data/historydata/?symbol=NEPSE:splat 200
+/api/data/historydata/*  https://chukul.com/api/data/historydata/:splat 200
+/api/data/historydata  https://chukul.com/api/data/historydata 200
