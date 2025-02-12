@@ -1,2 +1,8 @@
 /api/data/historydata/*  https://chukul.com/api/data/historydata/:splat 200
 /api/data/historydata  https://chukul.com/api/data/historydata 200
+
+/api/tools/market/status/*  https://chukul.com/api/tools/market/status/:splat 200
+/api/tools/market/status    https://chukul.com/api/tools/market/status 200
+
+/api/data/v2/market-summary/*  https://chukul.com/api/data/v2/market-summary/:splat 200
+/api/data/v2/market-summary  https://chukul.com/api/data/v2/market-summary/ 200
