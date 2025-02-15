@@ -6,3 +6,6 @@
 
 /api/data/v2/market-summary/*  https://chukul.com/api/data/v2/market-summary/:splat 200
 /api/data/v2/market-summary  https://chukul.com/api/data/v2/market-summary/ 200
+
+/api/data/intrahistorydata/performance/*  https://chukul.com/api/data/intrahistorydata/performance/:splat 200
+/api/data/intrahistorydata/performance  https://chukul.com/api/data/intrahistorydata/performance/ 200
