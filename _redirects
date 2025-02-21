@@ -10,9 +10,8 @@
 /api/data/intrahistorydata/performance/*  https://chukul.com/api/data/intrahistorydata/performance/:splat 200
 /api/data/intrahistorydata/performance  https://chukul.com/api/data/intrahistorydata/performance/ 200
 
+/smtm/home/indices-data/nepse/1d/*  https://www.onlinekhabar.com/smtm/home/indices-data/nepse/1d:splat 200
+/smtm/home/indices-data/nepse/1d  https://www.onlinekhabar.com/smtm/home/indices-data/nepse/1d/ 200
 
-/smtm/home/indices-data/nepse/1d  https://www.onlinekhabar.com/smtm/home/indices-data/nepse/1d 200
-/smtm/home/indices-data/nepse/1d/*  https://www.onlinekhabar.com/smtm/home/indices-data/nepse/1d/:splat 200
-
-/get-nepse-data/nepse-index  https://www.onlinekhabar.com/smtm/home/advance-decline/nepse 200
-/get-nepse-data/nepse-index/*  https://www.onlinekhabar.com/smtm/home/advance-decline/nepse/:splat 200
+/smtm/home/advance-decline/nepse/*  https://www.onlinekhabar.com/smtm/home/advance-decline/nepse/:splat 200
+/smtm/home/advance-decline/nepse  https://www.onlinekhabar.com/smtm/home/advance-decline/nepse/ 200
